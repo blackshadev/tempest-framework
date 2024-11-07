@@ -15,4 +15,5 @@ final readonly class MarkedRoute
         public Route $route,
     ) {
     }
+
 }
